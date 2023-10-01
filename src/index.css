@@ -1,0 +1,9 @@
+* {
+  background-color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Martian Mono", monospace;
+}
+
+.container {
+  display: grid;
+}
